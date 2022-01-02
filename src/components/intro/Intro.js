@@ -1,5 +1,5 @@
 import React from "react";
-import Me from "../../img/_MG_3023.jpg";
+import Me from "../../img/_MG_3023-removebg-preview.png";
 import "./Intro.css";
 
 const Intro = () => {
